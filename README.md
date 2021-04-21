@@ -1,12 +1,12 @@
 # awesome-libra-programs
 A curated list of development programs for the 0L ecosystem
 
-# OL Programs
+# 0L Programs
 
 ## Red Cross: Humanitarian Fund
 https://github.com/Danish-Red-Cross-Humanitarian-Fund
 
-## Iqlusion: OL Engineering Fund
+## Iqlusion: 0L Engineering Fund
 https://github.com/iqlusioninc/0L-iqlusion-engineering-fund
 
 ## NewLab: 0L Application Studio
