@@ -3,6 +3,9 @@ A curated list of development programs for the 0L ecosystem
 
 # 0L Programs
 
+## OL Full-Time Engineering Program
+https://github.com/MSRG/0L-FTEP
+
 ## A Good List: Automated Donations to High-Impact Non-Profits
 https://github.com/LOL-LLC/a-good-list
 
