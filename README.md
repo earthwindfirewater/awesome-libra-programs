@@ -3,7 +3,7 @@ A curated list of development programs for the 0L ecosystem
 
 # 0L Programs
 
-## A Good List: "Router" to High-Impact Non-Profits Working for the Social Good
+## A Good List: Automated Donations to High-Impact Non-Profits
 https://github.com/LOL-LLC/a-good-list
 
 ## Red Cross: Humanitarian Fund
